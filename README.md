@@ -106,7 +106,7 @@ Includes:
 - Segment analysis
 - Geographic distribution
 
-![Customer & Regional Analysis](screenshots/Page_3_Customer_And_Regional_Analysis.png)
+![Customer & Regional Analysis](screenshots/Page_3_Customer_and_Regional_Analysis.png)
 
 ---
 
