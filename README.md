@@ -84,7 +84,7 @@ Includes:
 - Category Breakdown
 - Regional Sales Distribution
 
-![Executive Summary](screenshots/page1_overview.png)
+![Executive Summary](screenshots/Page_1_Overview.png)
 
 ---
 
