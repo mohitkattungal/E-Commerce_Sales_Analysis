@@ -95,7 +95,7 @@ Includes:
 - Sales vs Profit scatter chart
 - Category treemap
 
-![Product Analysis](screenshots/page2_product.png)
+![Product Analysis](screenshots/Page_2_ProductAnalysis.png)
 
 ---
 
@@ -106,7 +106,7 @@ Includes:
 - Segment analysis
 - Geographic distribution
 
-
+![Customer & Regional Analysis](screenshots/Page_3_Customer_And_Regional_Analysis.png)
 
 ---
 
